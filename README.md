@@ -1,5 +1,7 @@
 # Research Artifact: 9.6 Million Links in Source Code Comments
 
+https://github.com/NAIST-SE/9.6MillionLinks/
+
 This is a research artifact for the ICSE'19 paper **9.6 Million Links in Source Code Comments: Purpose, Evolution, and Decay**. This artifact is a data repository including all 9,654,702 links associated with the information of languages and comment location (GitHub links including account names, repository names, commit hashes, file paths, and line numbers). The purpose of this artifact is enabling researchers to replicate our mixed-methods quantitative results of the paper, and to reuse our around 9.6 million links in source code comments for further software engineering research.
 
 Since our full dataset exceeds the file size limitation of GitHub, we published a separate version of this archive including the full dataset on Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2550683.svg)](https://doi.org/10.5281/zenodo.2550683).
