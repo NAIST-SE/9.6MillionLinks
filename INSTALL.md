@@ -59,8 +59,8 @@ Our coding results of 1146 links for RQ2 (link target) and RQ3 (link purpose) ar
 - *@see* - the link is accompanied by "@see", but no further explanation
 
 **Pull Requests for RQ7**
-- *Closed* 
--- https://github.com/BrowserSync/browser-sync/pull/1593
+- **Closed** 
+- https://github.com/BrowserSync/browser-sync/pull/1593
 - https://github.com/shirasagi/shirasagi/pull/2289
 - https://github.com/onepercentclub/bluebottle/pull/3372
 - https://github.com/ShipSoft/FairShip/pull/133
@@ -70,7 +70,7 @@ Our coding results of 1146 links for RQ2 (link target) and RQ3 (link purpose) ar
 - https://github.com/BlackToppStudios/Mezzanine/pull/182
 - https://github.com/mockingbirdnest/Principia/pull/1905
 
-- *Open*  
+- **Open**  
 - https://github.com/dzavalishin/phantomuserland/pull/468
 - https://github.com/refluster/lab/pull/12
 - https://github.com/densho/ddr-cmdln/pull/87
