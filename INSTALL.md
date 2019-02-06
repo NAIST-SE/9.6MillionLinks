@@ -60,7 +60,7 @@ Our coding results of 1146 links for RQ2 (link target) and RQ3 (link purpose) ar
 
 **Pull Requests for RQ7**
 - *Closed* 
-- https://github.com/BrowserSync/browser-sync/pull/1593
+-- https://github.com/BrowserSync/browser-sync/pull/1593
 - https://github.com/shirasagi/shirasagi/pull/2289
 - https://github.com/onepercentclub/bluebottle/pull/3372
 - https://github.com/ShipSoft/FairShip/pull/133
